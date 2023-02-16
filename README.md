@@ -33,7 +33,7 @@ GitHub releases allow your team to package and provide software to your users ba
 </details>
 
 <!--Step 1-->
-<details id=1 open>
+<details id=1>
 <summary><h2>Step 1: Create a beta release</h2></summary>
 
 ### The GitHub flow
@@ -72,7 +72,7 @@ Before using a release based workflow for a larger release, let's create a tag a
 </details>
 
 <!--Step 2-->
-<details id=2>
+<details id=2 open>
 <summary><h2>Step 2: Add a new feature to the release branch</h2></summary>
 
 ### Release management
